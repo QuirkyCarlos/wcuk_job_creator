@@ -1,3 +1,8 @@
+Any questions please Join the Discord
+https://discord.gg/GZnFrxRnRK
+
+
+
 In order to make refresh esx job button work, you should add this code to es_extended/server/common.lua at the end of file
 THERE ARE 2 DIFFERENT CODES, READ CAREFULLY
 THERE ARE 2 DIFFERENT CODES, READ CAREFULLY
